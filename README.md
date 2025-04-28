@@ -51,5 +51,5 @@ File Terkait:
 
 Referensi :
 1. Soal 1 : Screenshot 2025-04-28 195205
-2. Soal 2 : Referensi Jurnal
+2. Soal 2 : Referensi Jurnal.pdf
 
