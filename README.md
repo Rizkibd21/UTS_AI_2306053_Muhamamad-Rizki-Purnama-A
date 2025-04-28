@@ -23,10 +23,15 @@ Output berupa jenis hama berdasarkan gejala.
 
 Contoh Aturan:
 Input gejala tanaman
+
 Jika daun menguning → output "Tungau"
+
 Jika terdapat bercak hitam → output "Jamur Cercospora"
+
 Jika daun berlubang → output "Kumbang daun"
+
 Jika tanaman layu → output " Rhizoctonia "
+
 
 File Terkait:
 1. Soal1_UTS_AI.pdf
@@ -43,8 +48,11 @@ Ringkasan Berisi :
 - (+) Hasil Penelitian
 
 Pengembangan:
+
 a. Ide lanjutan jika saya yang membuat versi barunya.
+
 b. Ide aplikasi serupa untuk diterapkan di lingkungan sekitar.
+
 
 File Terkait:
 1. Review Jurnal_Soal 2.pdf
